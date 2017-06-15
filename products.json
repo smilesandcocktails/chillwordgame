@@ -1,0 +1,204 @@
+{
+    "puzzle": [
+      {
+        "answer": "PIZZA",
+        "category": "FOOD"
+      },
+      {
+        "answer": "PASSIONFRUITS",
+        "category": "FOOD"
+      },
+      {
+        "answer" : "CHEESEBURGERS",
+        "category": "FOOD"
+      },
+      {
+        "answer" : "BLACKBERRIES",
+        "category": "FOOD"
+      },
+      {
+        "answer" : "GINGERBREAD",
+        "category": "FOOD"
+      },
+      {
+        "answer" : "POMEGRANATE",
+        "category": "FOOD"
+      },
+      {
+        "answer" : "QUESADILLAS",
+        "category": "FOOD"
+      },
+      {
+        "answer" : "LEMONGRASS",
+        "category": "FOOD"
+      },
+      {
+        "answer" : "PISTACHIOS",
+        "category": "FOOD"
+      },
+      {
+        "answer" : "WATERMELON",
+        "category": "FOOD"
+      },
+      {
+        "answer" : "HAZELNUTS",
+        "category": "FOOD"
+      },
+      {
+        "answer" : "STONEHENGE",
+        "category": "LANDMARK"
+      },
+      {
+        "answer" : "MERLION",
+        "category": "LANDMARK"
+      },
+      {
+        "answer" : "PARTHENON",
+        "category": "LANDMARK"
+      },
+      {
+        "answer" : "COLOSSEUM",
+        "category": "LANDMARK"
+      },
+      {
+        "answer" : "KILIMANJARO",
+        "category": "LANDMARK"
+      },
+      {
+        "answer" : "ACROPOLIS",
+        "category": "LANDMARK"
+      },
+      {
+        "answer" : "POMPEII",
+        "category": "LANDMARK"
+      },
+      {
+        "answer" : "ALCATRAZ",
+        "category": "LANDMARK"
+      },
+      {
+        "answer" : "PENTAGON",
+        "category": "LANDMARK"
+      },
+      {
+        "answer" : "MECCA",
+        "category": "LANDMARK"
+      },
+      {
+        "answer" : "FRANKENSTEIN",
+        "category": "CHARACTER"
+      },
+      {
+        "answer" : "CHEWBACCA",
+        "category": "CHARACTER"
+      },
+      {
+        "answer" : "LEPRECHAUNS",
+        "category": "CHARACTER"
+      },
+      {
+        "answer" : "ZEUS",
+        "category": "CHARACTER"
+      },
+      {
+        "answer" : "POSEIDON",
+        "category": "CHARACTER"
+      },
+      {
+        "answer" : "VOLDEMORT",
+        "category": "CHARACTER"
+      },
+      {
+        "answer" : "GODZILLA",
+        "category": "CHARACTER"
+      },
+      {
+        "answer" : "BATWOMAN",
+        "category": "CHARACTER"
+      },
+      {
+        "answer" : "CHIMPANZEES",
+        "category": "ANIMALS"
+      },
+      {
+        "answer" : "CATERPILLAR",
+        "category": "ANIMALS"
+      },
+      {
+        "answer" : "HUMMINGBIRD",
+        "category": "ANIMALS"
+      },
+      {
+        "answer" : "RATTLESNAKE",
+        "category": "ANIMALS"
+      },
+      {
+        "answer" : "JACKRABBITS",
+        "category": "ANIMALS"
+      },
+      {
+        "answer" : "KANGAROOS",
+        "category": "ANIMALS"
+      },
+      {
+        "answer" : "HONEYBEES",
+        "category": "ANIMALS"
+      },
+      {
+        "answer" : "JELLYFISH",
+        "category": "ANIMALS"
+      },
+      {
+        "answer" : "WHALE",
+        "category": "ANIMALS"
+      },
+      {
+        "answer" : "DOLPHINS",
+        "category": "ANIMALS"
+      },
+      {
+        "answer" : "ORANGUTAN",
+        "category": "ANIMALS"
+      },
+      {
+        "answer" : "ABBREVIATIONS",
+        "category": "THING"
+      },
+      {
+        "answer" : "AUTOBIOGRAPHY",
+        "category": "THING"
+      },
+      {
+        "answer" : "CARBOHYDRATES",
+        "category": "THING"
+      },
+      {
+        "answer" : "QUESTIONNAIRE",
+        "category": "THING"
+      },
+      {
+        "answer" : "COMPASS",
+        "category": "THING"
+      },
+      {
+        "answer" : "BANJO",
+        "category": "THING"
+      },
+      {
+        "answer" : "LOGIC",
+        "category": "THING"
+      },
+      {
+        "answer" : "YOGA",
+        "category": "THING"
+      },
+      {
+        "answer" : "GLOBE",
+        "category": "THING"
+      },
+      {
+        "answer" : "MOTORCYCLES",
+        "category": "THING"
+      }
+    ]
+}
