@@ -2,7 +2,7 @@
 
 Need something to do while waiting for someone? Chill here with this *awesome* word game. All you have to do is to figure out the concealed 1-word puzzle by **either** guessing each letter at a time, **or** typing in the entire word to solve. You have **60 seconds** to guess each word to get scored. _**Enjoy!**_
 
-[Click here to play The Chill Word Game](https://wdi-sg.github.io/wdi-project-1-smilesandcocktails/)
+[Click here to play The Chill Word Game](https://chillwordgame.herokuapp.com/)
 
 ## Getting Started
 
